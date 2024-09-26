@@ -1,0 +1,10 @@
+#troca{
+    width: 200px;
+    height: 90px;
+    align-self: center;
+
+}
+
+.lista{
+    grid-column: auto;
+}
